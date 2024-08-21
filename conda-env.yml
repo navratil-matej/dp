@@ -1,0 +1,24 @@
+name: llama
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - pillow
+  - pytorch
+  - scipy
+  - numpy
+  - matplotlib
+  - spyder-notebook
+  - pip
+  - spyder
+  - protobuf==4.25.3
+  - transformers==4.43.3
+  - sentencepiece==0.2.0
+  - gguf==0.6.0
+  - pycocoevalcap
+  - pycocotools
+  - openjdk=8
+prefix: /home/des/anaconda3/envs/llama
