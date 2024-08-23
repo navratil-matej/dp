@@ -19,7 +19,12 @@ For full functionality of the notebook, the following is required:
 * [Git LFS](https://git-lfs.com/) extension
 * About 100 GB of free space
 
-To browse a DataFrame with results loaded from a CSV file, only Pandas and a notebook engine are needed.
+To browse a DataFrame with results loaded from a CSV file, only the following is needed:
+
+* Any Python env with NumPy, Pandas, Matplotlib and COCO API
+* The Setup step to fetch MS COCO dataset, which can be followed manually without access to a Unix shell.
+  * To do so, download [this archive](http://images.cocodataset.org/annotations/annotations_trainval2014.zip) and extract the file `captions_val2014.json` into `/coco/`
+  * You should end up with `/coco/captions_val2014.json` where `/` is this repository's root.
 
 > [!NOTE]
 > The following alternatives are currently not tested and do not include installation guide:
