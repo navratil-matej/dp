@@ -17,7 +17,7 @@ For full functionality of the notebook, the following is required:
 * A Unix operating system
 * [Anaconda](https://www.anaconda.com/) package manager
 * [Git LFS](https://git-lfs.com/) extension
-* About 100 GB of free space
+* About 200 GB of free space
 
 To browse a DataFrame with results loaded from a CSV file, only the following is needed:
 
