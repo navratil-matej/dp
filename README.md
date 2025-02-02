@@ -8,8 +8,6 @@ Evaluating different models and their quantizations in terms of accuracy and spe
 * CIDEr
 * SPICE
 
-The project `llama.cpp` is used as CLI programs, rather than a library. This is subject to change.
-
 ## Prerequisites
 
 For full functionality of the notebook, the following is required:
