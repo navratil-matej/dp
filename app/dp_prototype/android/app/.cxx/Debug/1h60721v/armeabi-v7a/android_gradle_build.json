@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/aux/thesis/app/dp_prototype/android/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/des/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/aux/thesis/app/dp_prototype/android/app/.cxx/Debug/1h60721v/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/des/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/aux/thesis/app/dp_prototype/android/app/.cxx/Debug/1h60721v/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {},
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/des/Android/Sdk/ndk/26.0.10792818/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/des/Android/Sdk/ndk/26.0.10792818/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

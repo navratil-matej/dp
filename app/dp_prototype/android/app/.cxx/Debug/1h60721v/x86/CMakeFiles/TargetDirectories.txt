@@ -1,0 +1,2 @@
+/aux/thesis/app/dp_prototype/android/app/.cxx/Debug/1h60721v/x86/CMakeFiles/edit_cache.dir
+/aux/thesis/app/dp_prototype/android/app/.cxx/Debug/1h60721v/x86/CMakeFiles/rebuild_cache.dir
